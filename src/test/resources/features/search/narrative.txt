@@ -1,0 +1,4 @@
+Login to scs
+Create a new directory
+Delete the directory
+Logout
